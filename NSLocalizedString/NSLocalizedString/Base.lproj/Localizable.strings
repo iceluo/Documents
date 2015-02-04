@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  NSLocalizedString
+
+  Created by luoliang on 15/1/29.
+  Copyright (c) 2015年 luoliang. All rights reserved.
+*/
+"Master" = "主视图";
+"Detail" = "详细视图";

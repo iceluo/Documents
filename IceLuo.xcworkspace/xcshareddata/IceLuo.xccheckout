@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C8A3A01C-B4A5-4B07-AA12-2675C2CB0A0A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5680CF48C100AB9A16DEB04161BB4A4A87F5931B</key>
+		<string>https://github.com/iceluo/NSDictionary.git</string>
+		<key>5DADD84AE4E197713ABCA87B22BC374FA119E82F</key>
+		<string>https://github.com/iceluo/-.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5680CF48C100AB9A16DEB04161BB4A4A87F5931B</key>
+		<string>NSDictionary/</string>
+		<key>5DADD84AE4E197713ABCA87B22BC374FA119E82F</key>
+		<string>%E9%80%9A%E7%9F%A5/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iceluo/-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DADD84AE4E197713ABCA87B22BC374FA119E82F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DADD84AE4E197713ABCA87B22BC374FA119E82F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E9%80%9A%E7%9F%A5</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5680CF48C100AB9A16DEB04161BB4A4A87F5931B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSDictionary</string>
+		</dict>
+	</array>
+</dict>
+</plist>

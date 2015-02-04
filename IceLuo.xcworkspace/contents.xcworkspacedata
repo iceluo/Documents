@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:&#x624b;&#x52bf;/&#x624b;&#x52bf;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x7c98;&#x8d34;&#x677f;/&#x7c98;&#x8d34;&#x677f;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UITableViewControler/UITableViewControler.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tableview/tableview.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:collectionView/collectionView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x504f;&#x597d;&#x8bbe;&#x7f6e;&#xff0d;&#x6570;&#x636e;&#x5b58;&#x50a8;2/&#x504f;&#x597d;&#x8bbe;&#x7f6e;&#xff0d;&#x6570;&#x636e;&#x5b58;&#x50a8;2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x591a;&#x79cd;&#x6837;&#x5f0f;&#x989c;&#x8272;&#x7684;&#x6587;&#x672c;/&#x591a;&#x79cd;&#x6837;&#x5f0f;&#x989c;&#x8272;&#x7684;&#x6587;&#x672c;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CGRectOffset/CGRectOffset.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSLocalizedString/NSLocalizedString.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x5224;&#x65ad;&#x7f51;&#x7edc;&#x53ef;&#x7528;/&#x5224;&#x65ad;&#x7f51;&#x7edc;&#x53ef;&#x7528;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:plist&#x5b58;&#x50a8;/plist&#x5b58;&#x50a8;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6587;&#x4ef6;&#x76ee;&#x5f55;&#x8def;&#x5f84;/&#x6587;&#x4ef6;&#x76ee;&#x5f55;&#x8def;&#x5f84;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x56fe;&#x7247;&#x62c9;&#x4f38;/&#x56fe;&#x7247;&#x62c9;&#x4f38;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x63a7;&#x5236;&#x5668;/&#x63a7;&#x5236;&#x5668;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6309;&#x94ae;/&#x6309;&#x94ae;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6587;&#x672c;&#x6846;/&#x6587;&#x672c;&#x6846;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSDictionary/NSDictionary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x65e5;&#x671f; &#x65f6;&#x95f4;/&#x65e5;&#x671f; &#x65f6;&#x95f4;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:keyBoardTest/keyBoardTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IQkeyBoardM/IQkeyBoardM.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:keyBoard/keyBoard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x901a;&#x77e5;/&#x901a;&#x77e5;.xcodeproj">
+   </FileRef>
+</Workspace>
